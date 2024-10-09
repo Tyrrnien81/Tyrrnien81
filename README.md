@@ -19,10 +19,10 @@
 
 <div>
   <a href="https://github.com/Tyrrnien81">
-    <img align="center" style="height: 208px;" src="https://github-readme-stats.zohan.tech/api?username=Tyrrnien81&show_icons=true&theme=react" />
+    <img align="center" style="height: 210px;" src="https://github-readme-stats.zohan.tech/api?username=Tyrrnien81&show_icons=true&theme=react" />
   </a>
   <a href="https://github.com/Tyrrnien81">
-    <img align="center" style="height: 208px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyrrnien81&layout=donut&theme=react&langs_count=5" />
+    <img align="center" style="height: 210px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyrrnien81&layout=donut&theme=react&langs_count=5" />
   </a>
 </div>
 
