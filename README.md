@@ -6,7 +6,7 @@
 **My name is Leo Jeong**, and I'm a junior at the University of Wisconsin-Madison, majoring in Computer Science with a minor in Data Science. I aspire to become a software engineer, focusing on human-centered technology and accessible design.
 
 ## ⚙️ Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,c,mysql)](https://skillicons.dev)
 
 ## 🛠️ Frameworks
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
