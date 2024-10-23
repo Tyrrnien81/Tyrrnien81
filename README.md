@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,c,mysql)](https://skillicons.dev)
 
 ## 🛠️ Frameworks
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flask)](https://skillicons.dev)
 
 ## 🌐 Platforms
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)  
