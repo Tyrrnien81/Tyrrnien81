@@ -11,8 +11,10 @@
 ## 🛠️ Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,flask)](https://skillicons.dev)
 
+<!--
 ## 🌐 Platforms
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)  
+-->
 
 ## 🧰 Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,eclipse,bash,androidstudio,firebase,anaconda,postman,vscode)](https://skillicons.dev)
