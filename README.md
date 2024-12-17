@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-**My name is Leo Jeong**, and I'm a junior at the University of Wisconsin-Madison, majoring in Computer Science with a minor in Data Science. I aspire to become a software engineer, focusing on human-centered technology and accessible design.
+**My name is Leo Jeong**, and I'm a junior at the University of Wisconsin-Madison, majoring in Computer Science with a minor in Data Science. I aspire to become a software engineer focused on creating human-centered, accessible solutions. I am committed to refining my skills and making a positive impact through technology.
 
 ## ⚙️ Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,c,mysql)](https://skillicons.dev)
