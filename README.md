@@ -18,7 +18,7 @@
 <!--
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask)](https://skillicons.dev)
 -->
-[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
 
