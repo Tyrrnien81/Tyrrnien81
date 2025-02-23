@@ -13,6 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
 ## 🛠️ Frameworks
 <!--
@@ -20,6 +21,7 @@
 -->
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![My Skills](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
 
 <!--
@@ -31,12 +33,12 @@
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://eclipseide.org/)
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![My Skills](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
 ## 🌐 Connect with Me
 - june121284@gmail.com
