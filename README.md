@@ -37,12 +37,14 @@
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![My Skills](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
 ## 🌐 Connect with Me
 - june121284@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/june121284/)
+- [LinkedIn](https://www.linkedin.com/in/Leo-Jeong/)
 - [GitHub.io](https://tyrrnien81.github.io/)
 
 ---
