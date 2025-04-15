@@ -13,10 +13,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
-## 🛠️ Frameworks
+## 🛠️ Frameworks & Libraries
 <!--
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask)](https://skillicons.dev)
 -->
@@ -24,6 +25,8 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+[![My Skills](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
 
 <!--
 ## 🌐 Platforms
