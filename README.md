@@ -7,19 +7,20 @@
 - I aspire to become a software engineer focused on creating human-centered, accessible solutions.
 - I am committed to refining my skills and making a positive impact through technology.
 
-## ⚙️ Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com)
+## Languages
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://developer.mozilla.org/en-US/docs/Web/TypeScript)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+<!--
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+-->
 
-## 🛠️ Frameworks & Libraries
+## Frameworks
 <!--
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask)](https://skillicons.dev)
 -->
@@ -27,28 +28,44 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
-[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
 [![My Skills](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
+<!--
+[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+-->
+
 
 <!--
 ## 🌐 Platforms
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)  
 -->
 
-## 🧰 Tools
+## DevOps & Cloud
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![My Skills](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+
+
+## Tools
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://eclipseide.org/)
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![My Skills](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+<!--
+[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://eclipseide.org/)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+-->
 
-## 🌐 Connect with Me
+
+## Connect with Me
 - june121284@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/Leo-Jeong/)
 - [Portfolio](https://tyrrnien81.github.io/)
