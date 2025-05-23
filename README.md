@@ -1,3 +1,4 @@
+<!--
 <h1>
   Hey there! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -6,8 +7,21 @@
 - **My name is Leo Jeong**, and I'm a junior at the University of Wisconsin-Madison, majoring in **Computer Science.**
 - I aspire to become a software engineer focused on creating human-centered, accessible solutions.
 - I am committed to refining my skills and making a positive impact through technology.
+-->
 
-## Languages
+<h1 align="center">
+  Leo Jeong ┃ Full-Stack & DevOps ┃ Software Engineer
+</h1>
+
+<p align="center">
+  🧑‍💻 Junior @ UW-Madison • CS ✧ DS
+  <br/>React.js | React Native | Node.js | OpenAI API
+  <br/>Building human-centered, accessible apps.
+</p>
+
+## 🛠 Technical Skills
+
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -20,7 +34,7 @@
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 -->
 
-## Frameworks
+### Frameworks
 <!--
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask)](https://skillicons.dev)
 -->
@@ -41,14 +55,14 @@
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)  
 -->
 
-## DevOps & Cloud
+### DevOps & Cloud
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![My Skills](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 
 
-## Tools
+### Tools
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
@@ -65,7 +79,7 @@
 -->
 
 
-## Connect with Me
+## 📫 Let's Connect
 - june121284@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/Leo-Jeong/)
 - [Portfolio](https://tyrrnien81.github.io/)
