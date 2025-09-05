@@ -72,8 +72,9 @@
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+
 <!--
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://eclipseide.org/)
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
