@@ -14,8 +14,8 @@
 </h1>
 
 <p align="center">
-  🧑‍💻 Junior @ UW-Madison • CS ✧ DS
-  <br/>React.js | React Native | Node.js | OpenAI API
+  🧑‍💻 Senior @ UW-Madison • CS ✧ DS
+  <br/>React.js | React Native | Node.js | LLM
   <br/>Building human-centered, accessible apps.
 </p>
 
