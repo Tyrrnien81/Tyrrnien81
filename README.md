@@ -26,12 +26,12 @@
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)
 <!--
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 -->
 
 ### Frameworks
@@ -41,9 +41,10 @@
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![My Skills](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
 <!--
 [![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
@@ -60,6 +61,7 @@
 [![My Skills](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
 
 
 ### Tools
@@ -70,11 +72,11 @@
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
-
-<!--
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+<!--
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://eclipseide.org/)
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
