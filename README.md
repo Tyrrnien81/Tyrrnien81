@@ -4,7 +4,7 @@
 
 <p align="center">
   Senior - Computer Science and Data Science @ UW-Madison
-  <br/>Building human-centered, accessible apps.
+  <br/>Building human-centered, accessible software.
 </p>
 
 <p align="center">
