@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:june121284@gmail.com">june12184@gmail.com</a> •
+  <a href="mailto:june121284@gmail.com">june121284@gmail.com</a> •
   <a href="https://www.linkedin.com/in/Leo-Jeong/">LinkedIn</a> •
   <a href="https://tyrrnien81.github.io/">Portfolio</a>
 </p>
