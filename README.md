@@ -28,9 +28,10 @@ My interests include:
 ## 💻 Featured Projects
 
 ### [Shopbop Showdown](https://github.com/Buman-Erdem/ShopBop-Showdown)
-- A real-time multiplayer fashion game where players compete to build the best themed outfit under budget and time constraints, then vote on anonymized looks to decide the winner.
-- Built around a full game loop from lobby creation to live voting and results, with product search, outfit submission, and real-time gameplay in mind.  
-[GitHub](https://github.com/Buman-Erdem/ShopBop-Showdown) • [Demo](https://drive.google.com/file/d/1L3sPeZhQ2fxyTHw-JjRlOiG8Mwss4dgY/view?usp=drive_link)
+- An **Amazon Capstone** project built as a real-time multiplayer fashion game where players compete to build the best themed outfit under budget and time constraints, then vote on anonymized looks to decide the winner.
+- Built around a full game loop from lobby creation to live voting and results, with product search, outfit submission, and real-time gameplay in mind.
+- **Tech:** React, Node.js, Express, AWS (Lambda, DynamoDB), Shopbop API, Gemini API
+- [GitHub](https://github.com/Buman-Erdem/ShopBop-Showdown) • [Demo](https://drive.google.com/file/d/1L3sPeZhQ2fxyTHw-JjRlOiG8Mwss4dgY/view?usp=drive_link)
 
 ### [PathOne](https://github.com/Tyrrnien81/pathone)
 - An AI-assisted platform that helps exceptional founders and professionals assess EB-1A and O-1 visa eligibility, organize supporting materials, and generate prefilled petition documents.
