@@ -1,23 +1,30 @@
-<!--
-<h1>
-  Hey there! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-- **My name is Leo Jeong**, and I'm a junior at the University of Wisconsin-Madison, majoring in **Computer Science.**
-- I aspire to become a software engineer focused on creating human-centered, accessible solutions.
-- I am committed to refining my skills and making a positive impact through technology.
--->
-
 <h1 align="center">
-  Leo Jeong ┃ Full-Stack & DevOps ┃ Software Engineer
+  Leo Jeong | Software Engineer
 </h1>
 
 <p align="center">
-  🧑‍💻 Senior @ UW-Madison • CS ✧ DS
-  <br/>React.js | React Native | Node.js | LLM
+  Senior - Computer Science and Data Science @ UW-Madison
   <br/>Building human-centered, accessible apps.
 </p>
+
+<p align="center">
+  <a href="mailto:june121284@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/Leo-Jeong/">LinkedIn</a> •
+  <a href="https://tyrrnien81.github.io/">Portfolio</a>
+</p>
+
+
+## 🧑‍💻 About Me
+
+I am a software engineer focused on building full-stack applications, backend systems, and developer-friendly infrastructure.  
+I enjoy creating products that are accessible, reliable, and centered around real user needs.
+
+My interests include:
+- Full-stack development
+- Backend and API design
+- Cloud and DevOps workflows
+- Human-centered and accessible software
+
 
 ## 🛠 Technical Skills
 
@@ -28,59 +35,52 @@
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)
-<!--
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
--->
 
-### Frameworks
-<!--
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask)](https://skillicons.dev)
--->
-[![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+
+### Backend & APIs
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
 [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+
+### AI / ML
 [![My Skills](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
-<!--
 [![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
--->
+[![My Skills](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/stable/)
 
-
-<!--
-## 🌐 Platforms
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)  
--->
-
-### DevOps & Cloud
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![My Skills](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
-[![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
-[![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
-
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-[![My Skills](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/)
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+### DB, Cache & Backend Services
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![My Skills](https://skillicons.dev/icons?i=redis)](https://redis.io/)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
+
+### Cloud, DevOps & CI/CD
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![My Skills](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+
+### Developer Tools & Design
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![My Skills](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-<!--
-[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://eclipseide.org/)
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
--->
+
+### Platform & Observability
+[![My Skills](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/)
+[![My Skills](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io/)
+[![My Skills](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
+
+
 
 
 ## 📫 Let's Connect
