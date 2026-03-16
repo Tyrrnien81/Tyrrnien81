@@ -22,27 +22,27 @@
 
 ## 💻 Featured Projects
 
-### [Shopbop Showdown](https://github.com/Buman-Erdem/ShopBop-Showdown)
-- An **Amazon Capstone** project built as a real-time multiplayer fashion game where players compete to build the best themed outfit under budget and time constraints, then vote on anonymized looks to decide the winner.
-- Built around a full game loop from lobby creation to live voting and results, with product search, outfit submission, and real-time gameplay in mind.
+### [🛍️ Shopbop Showdown](https://github.com/Tyrrnien81/Shopbop-Showdown) | Amazon Capstone
+Real-time multiplayer fashion game where players compete to style the best themed outfit under budget & time pressure, then vote to decide the winner.
+- Designed the full game loop: lobby → product search → outfit submission → live voting → results
 - **Tech:** React, Node.js, Express, AWS (Lambda, DynamoDB), Shopbop API, Gemini API
-- [GitHub](https://github.com/Buman-Erdem/ShopBop-Showdown) • [Demo](https://drive.google.com/file/d/1L3sPeZhQ2fxyTHw-JjRlOiG8Mwss4dgY/view?usp=drive_link)
+- [GitHub](https://github.com/Tyrrnien81/Shopbop-Showdown) • [Demo](https://drive.google.com/file/d/1L3sPeZhQ2fxyTHw-JjRlOiG8Mwss4dgY/view?usp=drive_link)
 
-### [PathOne](https://github.com/Tyrrnien81/pathone)
-- An AI-assisted platform that helps exceptional founders and professionals assess EB-1A and O-1 visa eligibility, organize supporting materials, and generate prefilled petition documents.
-- Designed to reduce legal complexity, save time, and make a difficult immigration workflow more accessible through productized software.
+### [🛂 PathOne](https://github.com/Tyrrnien81/pathone) | AI Immigration Assistant
+Helps founders and professionals assess EB-1A / O-1 visa eligibility, organize evidence, and generate prefilled petition documents using RAG.
+- Reduced legal complexity by productizing a multi-step immigration workflow into guided software
 - **Tech:** React, Node.js, Express, FastAPI, SQLite, Hugging Face, RAG
 - [GitHub](https://github.com/Tyrrnien81/pathone) • [Demo](https://youtu.be/CSjGoeb3TPA)
 
-### [PulseMates](https://github.com/Tyrrnien81/PulseMates)
-- An AI-powered mental health voice check-in app that turns a 60-second recording into transcription, sentiment analysis, personalized coaching, and audio guidance in under 6 seconds.
-- Built as a hackathon MVP with crisis detection, university resource integration, and a performance improvement from 27.99s to 4.6s API response time.
+### [🧠 PulseMates](https://github.com/Tyrrnien81/PulseMates) | Mental Health Voice Check-in
+Turns a 60-second voice recording into transcription, sentiment analysis, personalized coaching, and audio guidance.
+- Optimized API pipeline from **27.99s → 4.6s** (6× faster) with crisis detection and campus resource integration
 - **Tech:** React Native, Node.js, Express, MySQL, Docker, OpenAI API, Google Cloud TTS
 - [GitHub](https://github.com/Tyrrnien81/PulseMates) • [Demo](https://www.youtube.com/watch?v=7BYLppPJQj4)
 
-### [GROW](https://github.com/Tyrrnien81/GROW)
-- A student-centered mobile platform for discovering courses, joining real-time chats, and sharing peer reviews to strengthen academic community and decision-making.
-- Built with React Native and a hybrid backend architecture combining Firebase real-time services with a custom REST API for scalable course, review, and analytics features.
+### [📚 GROW](https://github.com/Tyrrnien81/GROW) | Student Course Community
+Mobile platform for discovering courses, joining real-time chats, and sharing peer reviews at UW-Madison.
+- Hybrid backend: Firebase for real-time features + custom REST API for structured course & analytics data
 - **Tech:** React Native, Expo, Next.js, PostgreSQL, Firebase, Madgrades API
 - [GitHub](https://github.com/Tyrrnien81/GROW)
 
