@@ -25,6 +25,28 @@ My interests include:
 - Cloud and DevOps workflows
 - Human-centered and accessible software
 
+## 💻 Featured Projects
+
+### [Shopbop Showdown](https://github.com/Buman-Erdem/ShopBop-Showdown)
+- A real-time multiplayer fashion game where players compete to build the best themed outfit under budget and time constraints, then vote on anonymized looks to decide the winner.
+- Built around a full game loop from lobby creation to live voting and results, with product search, outfit submission, and real-time gameplay in mind.  
+[GitHub](https://github.com/Buman-Erdem/ShopBop-Showdown) • [Demo](https://drive.google.com/file/d/1L3sPeZhQ2fxyTHw-JjRlOiG8Mwss4dgY/view?usp=drive_link)
+
+### [PathOne](https://github.com/Tyrrnien81/pathone)
+- An AI-assisted platform that helps exceptional founders and professionals assess EB-1A and O-1 visa eligibility, organize supporting materials, and generate prefilled petition documents.
+- Designed to reduce legal complexity, save time, and make a difficult immigration workflow more accessible through productized software.  
+[GitHub](https://github.com/Tyrrnien81/pathone) • [Demo](https://youtu.be/CSjGoeb3TPA)
+
+### [PulseMates](https://github.com/Tyrrnien81/PulseMates)
+- An AI-powered mental health voice check-in app that turns a 60-second recording into transcription, sentiment analysis, personalized coaching, and audio guidance in under 6 seconds.
+- Built as a hackathon MVP with crisis detection, university resource integration, and a performance improvement from 27.99s to 4.6s API response time.  
+[GitHub](https://github.com/Tyrrnien81/PulseMates) • [Demo](https://www.youtube.com/watch?v=7BYLppPJQj4)
+
+### [GROW](https://github.com/Tyrrnien81/GROW)
+- A student-centered mobile platform for discovering courses, joining real-time chats, and sharing peer reviews to strengthen academic community and decision-making.
+- Built with React Native and a hybrid backend architecture combining Firebase real-time services with a custom REST API for scalable course, review, and analytics features.  
+[GitHub](https://github.com/Tyrrnien81/GROW)
+
 
 ## 🛠 Technical Skills
 
