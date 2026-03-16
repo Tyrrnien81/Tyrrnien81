@@ -25,30 +25,40 @@
 ### [🛍️ Shopbop Showdown](https://github.com/Tyrrnien81/Shopbop-Showdown) | Amazon Capstone
 Real-time multiplayer fashion game where players compete to style the best themed outfit under budget & time pressure, then vote to decide the winner.
 - Designed the full game loop: lobby → product search → outfit submission → live voting → results
-- **Tech:** React, Node.js, Express, AWS (Lambda, DynamoDB), Shopbop API, Gemini API
+- **Tech:** React · Node.js · Express · AWS (Lambda & DynamoDB) · Shopbop API · Gemini API
 - [GitHub](https://github.com/Tyrrnien81/Shopbop-Showdown) • [Demo](https://drive.google.com/file/d/1L3sPeZhQ2fxyTHw-JjRlOiG8Mwss4dgY/view?usp=drive_link)
 
 ### [🛂 PathOne](https://github.com/Tyrrnien81/pathone) | AI Immigration Assistant
 Helps founders and professionals assess EB-1A / O-1 visa eligibility, organize evidence, and generate prefilled petition documents using RAG.
 - Reduced legal complexity by productizing a multi-step immigration workflow into guided software
-- **Tech:** React, Node.js, Express, FastAPI, SQLite, Hugging Face, RAG
+- **Tech:** React · Node.js · FastAPI · SQLite · Hugging Face · RAG
 - [GitHub](https://github.com/Tyrrnien81/pathone) • [Demo](https://youtu.be/CSjGoeb3TPA)
 
 ### [🧠 PulseMates](https://github.com/Tyrrnien81/PulseMates) | Mental Health Voice Check-in
 Turns a 60-second voice recording into transcription, sentiment analysis, personalized coaching, and audio guidance.
 - Optimized API pipeline from **27.99s → 4.6s** (6× faster) with crisis detection and campus resource integration
-- **Tech:** React Native, Node.js, Express, MySQL, Docker, OpenAI API, Google Cloud TTS
+- **Tech:** React Native · Node.js · Express · MySQL · Docker · OpenAI API · Google Cloud TTS
 - [GitHub](https://github.com/Tyrrnien81/PulseMates) • [Demo](https://www.youtube.com/watch?v=7BYLppPJQj4)
 
 ### [📚 GROW](https://github.com/Tyrrnien81/GROW) | Student Course Community
 Mobile platform for discovering courses, joining real-time chats, and sharing peer reviews at UW-Madison.
 - Hybrid backend: Firebase for real-time features + custom REST API for structured course & analytics data
-- **Tech:** React Native, Expo, Next.js, PostgreSQL, Firebase, Madgrades API
+- **Tech:** React Native · Expo · Next.js · PostgreSQL · Firebase · Madgrades API
 - [GitHub](https://github.com/Tyrrnien81/GROW)
 
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
+- **Languages:** Python · Java · JavaScript · TypeScript · C · C++
+- **Frontend:** React · Next.js · React Native
+- **Backend:** Node.js · Express · Django · Flask · FastAPI
+- **AI / ML:** PyTorch · TensorFlow · scikit-learn · Hugging Face · RAG
+- **Data & Services:** PostgreSQL · MySQL · SQLite · MongoDB · Redis · Firebase · Supabase
+- **Cloud / DevOps:** AWS · GCP · Azure · Docker · GitHub Actions
+- **Observability:** Kafka · Prometheus · Grafana
+
+
+<!---
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com)
@@ -100,7 +110,7 @@ Mobile platform for discovering courses, joining real-time chats, and sharing pe
 [![My Skills](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/)
 [![My Skills](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io/)
 [![My Skills](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
-
+--->
 
 
 <!--
