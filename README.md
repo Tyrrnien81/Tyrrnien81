@@ -16,14 +16,9 @@
 
 ## 🧑‍💻 About Me
 
-I am a software engineer focused on building full-stack applications, backend systems, and developer-friendly infrastructure.  
-I enjoy creating products that are accessible, reliable, and centered around real user needs.
-
-My interests include:
-- Full-stack development
-- Backend and API design
-- Cloud and DevOps workflows
-- Human-centered and accessible software
+- I build software end-to-end, from system design to deployment, with a bias toward shipping fast and iterating with real users.
+- Most recently, I built a real-time multiplayer fashion game as part of an **Amazon-sponsored capstone** and an AI platform that streamlines U.S. immigration petitions.
+- I care about performance, clean architecture, and making complex workflows feel simple.
 
 ## 💻 Featured Projects
 
