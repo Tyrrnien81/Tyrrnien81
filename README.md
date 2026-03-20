@@ -53,10 +53,9 @@ Mobile platform for discovering courses, joining real-time chats, and sharing pe
 - **Languages:** Python · Java · JavaScript · TypeScript · C · C++
 - **Frontend:** React · Next.js · React Native
 - **Backend:** Node.js · Express · Django · Flask · FastAPI
+- **Data:** PostgreSQL · MySQL · SQLite · MongoDB · Redis
+- **Cloud & DevOps:** AWS · GCP · Docker · GitHub Actions
 - **AI & ML:** PyTorch · TensorFlow · scikit-learn · Hugging Face
-- **Databases:** PostgreSQL · MySQL · SQLite · MongoDB
-- **Caching & Baas:** Redis · Firebase · Supabase
-- **Cloud & DevOps:** AWS · GCP · Azure · Docker · GitHub Actions
 - **Infrastructure:** Kafka · Prometheus · Grafana
 
 
