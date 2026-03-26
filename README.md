@@ -1,5 +1,5 @@
 <h1 align="center">
-  Leo Jeong | Software Engineer
+  Leo Jeong · Software Engineer
 </h1>
 
 <p align="center">
