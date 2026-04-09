@@ -27,7 +27,7 @@ Real-time multiplayer fashion game where players compete to style the best theme
 - Designed the full game loop: lobby → product search → outfit submission → live voting → results
 - **Tech:** React · Node.js · Express · AWS (Lambda & DynamoDB) · Shopbop API · Gemini API
 - [GitHub](https://github.com/Tyrrnien81/Shopbop-Showdown) • [Demo](https://drive.google.com/file/d/1eAKZ0ReN54_Rv_SdqDuCTXL8-KhXTkRb/view?usp=sharing) • [Live
-↗](https://shopbop-showdown-1.onrender.com/)
+↗](https://shopbop-showdown.vercel.app)
 
 ### [🛂 PathOne](https://github.com/Tyrrnien81/pathone) | AI Immigration Assistant
 AI platform for helping founders and professionals assess EB-1A / O-1 visa eligibility, organize evidence, and generate prefilled petition documents using RAG.
